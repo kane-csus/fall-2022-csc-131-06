@@ -1,4 +1,4 @@
-Name:           Gary Kane
-Email:          garykane@csus.edu
-GitHub:         kane-csus
+Name:           Vincent Lam
+Email:          vlam@csus.edu
+GitHub:         Xeoul
 Favorite Hobby: cars
