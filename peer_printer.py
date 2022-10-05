@@ -34,6 +34,7 @@ class Person:
         whether or not this person likes pineapple on pizza
     '''
     # Python constructor to initialize attributes (fields in Java)
+
     def __init__(self, name: str, likes_pineapple_pizza: bool):
         self.name = name
         self.likes_pineapple_pizza = likes_pineapple_pizza
@@ -49,10 +50,14 @@ def main():
     gary_kane = Person('Gary Kane', False)
     haoyang_li = Person('Haoyang Li', False)
     vincent_lam = Person('Vincent Lam', False)
-
+    jonathan_camarena_camacho = Person('Jonathan Camarena Camacho', True)
 
     # List of people in our class (alphabetical order by first name)
+<<<<<<< HEAD
     peers = [alex_souv, gary_kane, haoyang_li, vincent_lam]
+=======
+    peers = [gary_kane, haoyang_li, jonathan_camarena_camacho, vincent_lam]
+>>>>>>> 641e77359e62c68b9a395f8a05c558a8d3056b87
 
     # Print out people in our class
     print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
@@ -72,10 +77,18 @@ def main():
         print("%s likes pineapple pizza" % haoyang_li.name)
     else:
         print("%s DOES NOT like pineapple pizza" % haoyang_li.name)
+
+    if jonathan_camarena_camacho.likes_pineapple_pizza:
+        print("%s likes pineapple pizza" % jonathan_camarena_camacho.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" %
+              jonathan_camarena_camacho.name)
+
     if vincent_lam.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % vincent_lam.name)
     else:
         print("%s DOES NOT like pineapple pizza" % vincent_lam.name)
+
 
 if __name__ == "__main__":
     main()
