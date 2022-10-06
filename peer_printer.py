@@ -57,7 +57,7 @@ def main():
 
     # List of people in our class (alphabetical order by first name)
 
-    peers = [alex_souv, anish_chouhan, brandon_kmiec, gary_kane, haoyang_li, jonathan_camarena_camacho, vincent_lam, phuc_dinh]
+    peers = [alex_souv, anish_chouhan, brandon_kmiec, gary_kane, haoyang_li, jonathan_camarena_camacho, phuc_dinh, vincent_lam]
 
     # Print out people in our class
     print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
