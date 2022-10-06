@@ -8,4 +8,5 @@ A list of peers in CSC 131-06 Fall 2022
 * Gary Kane
 * Haoyang Li
 * Jonathan Camarena Camacho
+* Phuc Dinh
 * Vincent Lam
