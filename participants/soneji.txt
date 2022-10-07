@@ -1,4 +1,4 @@
-+ Name: Diya Soneji
-+ Email: diyasoneji@csus.edu
-+ GitHub: DiyaSoneji
-+ Fun Fact: Love to eat
+Name: Diya Soneji
+Email: diyasoneji@csus.edu
+GitHub: DiyaSoneji
+Fun Fact: Love to eat
