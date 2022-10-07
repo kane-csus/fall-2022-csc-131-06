@@ -6,6 +6,7 @@ A list of peers in CSC 131-06 Fall 2022
 * Amir Talakoob
 * Anish Chouhan
 * Blake Danz
+* Branden Nguyen
 * Brandon Kmiec
 * Christian Vela Pasillas
 * Danny Zhou
