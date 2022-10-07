@@ -5,13 +5,20 @@ A list of peers in CSC 131-06 Fall 2022
 * Alex Souv
 * Amir Talakoob
 * Anish Chouhan
+* Blake Danz
+* Branden Nguyen
 * Brandon Kmiec
+* Casey Paras
 * Christian Vela Pasillas
+* Danny Zhou
+* Diya Soneji
 * Eduardo Lopez
 * Gary Kane
 * Haoyang Li 
+* Jacob Correa
 * Jonathan Camarena Camacho
 * Joshua Cupler
+* Jose Martinez
 * Kiranjot Kaur
 * Mohammed Al Chalabi
 * Phuc Dinh
