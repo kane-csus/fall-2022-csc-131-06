@@ -76,7 +76,7 @@ def main():
     # List of people in our class (alphabetical order by first name)
 
 
-    peers = [aaron_jumawan,alex_souv, amir_talakoob, andreas_zignago,  anish_chouhan, blake_danz, branden_nguyen, brandon_kmiec, casey_paras, christian_vela, danny_zhou, eduardo_lopez, gary_kane, haoyang_li, jacob_correa, jonathan_camarena_camacho, joshua_cupler, jose_martinez, kiranjot_kaur, mohammed_alchalabi, phuc_dinh, sachal_ali, tom_bolyard, vincent_lam]
+    peers = [aaron_jumawan,alex_souv, amir_talakoob, andreas_zignago,  anish_chouhan, blake_danz, branden_nguyen, brandon_kmiec, casey_paras, christian_vela, danny_zhou, eduardo_lopez, gary_kane, haoyang_li, jacob_correa, jonathan_camarena_camacho, joshua_cupler, jose_martinez, kiranjot_kaur, mohammed_alchalabi, phuc_dinh, rishi_somanchi, sachal_ali, tom_bolyard, vincent_lam]
 
 
     # Print out people in our class
