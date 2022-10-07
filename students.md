@@ -11,5 +11,6 @@ A list of peers in CSC 131-06 Fall 2022
 * Jonathan Camarena Camacho
 * Joshua Cupler
 * Kiranjot Kaur
+* Mohammed Al Chalabi
 * Phuc Dinh
 * Vincent Lam
