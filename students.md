@@ -2,6 +2,7 @@ A list of peers in CSC 131-06 Fall 2022
 --------------------------------------------------
 
 *Please keep this list in alphabetical order by first name.*
+* Aaron Jumawan
 * Alex Souv
 * Amir Talakoob
 * Anish Chouhan
@@ -22,4 +23,5 @@ A list of peers in CSC 131-06 Fall 2022
 * Kiranjot Kaur
 * Mohammed Al Chalabi
 * Phuc Dinh
+* Tom Bolyard
 * Vincent Lam
