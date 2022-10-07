@@ -1,4 +1,0 @@
-Name:           Sachal Ali
-Email:          dippit@me.com
-GitHub:         sachal1
-Favorite Drink: coffee
