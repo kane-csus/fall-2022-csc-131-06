@@ -23,5 +23,6 @@ A list of peers in CSC 131-06 Fall 2022
 * Kiranjot Kaur
 * Mohammed Al Chalabi
 * Phuc Dinh
+* Sachal Ali
 * Tom Bolyard
 * Vincent Lam
