@@ -11,6 +11,7 @@ A list of peers in CSC 131-06 Fall 2022
 * Casey Paras
 * Christian Vela Pasillas
 * Danny Zhou
+* Diya Soneji
 * Eduardo Lopez
 * Gary Kane
 * Haoyang Li 
