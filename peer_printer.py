@@ -59,6 +59,7 @@ def main():
     vincent_lam = Person('Vincent Lam', False)
     jonathan_camarena_camacho = Person('Jonathan Camarena Camacho', True)
     joshua_cupler = Person('Joshua Cupler', True)
+    jose_martinez = Person('Jose Martinez', False)
 
 
     # List of people in our class (alphabetical order by first name)
