@@ -67,6 +67,7 @@ def main():
     jonathan_camarena_camacho = Person('Jonathan Camarena Camacho', True)
     joshua_cupler = Person('Joshua Cupler', True)
     jose_martinez = Person('Jose Martinez', False)
+    rishi_somanchi = Person('Rishi Somanchi', False)
     sachal_ali = Person('Sachal Ali', False)
 
     # List of people in our class (alphabetical order by first name)
@@ -176,6 +177,11 @@ def main():
         print("%s likes pineapple pizza" % phuc_dinh.name)
     else:
         print("%s DOES NOT like pineapple pizza" % phuc_dinh.name)
+
+    if rishi_somanchi.likes_pineapple_pizza:
+	    print("%s likes pineapple pizza" % rishi_somanchi.name)
+    else:
+	    print("%s DOES NOT like pineapple pizza" % rishi_somanchi.name)
 
     if sachal_ali.likes_pineapple_pizza:
 	    print("%s likes pineapple pizza" % sachal_ali.name)
