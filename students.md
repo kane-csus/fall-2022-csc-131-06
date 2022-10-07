@@ -29,3 +29,4 @@ A list of peers in CSC 131-06 Fall 2022
 * Tom Bolyard
 * Vincent Lam
 * William Hong
+* Zhijun Li
