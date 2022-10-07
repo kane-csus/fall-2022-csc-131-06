@@ -1,0 +1,4 @@
+Name:           Zhijun Li
+Email:          zli2@csus.edu
+GitHub:         luckill
+Favorite Food:  Sushi
