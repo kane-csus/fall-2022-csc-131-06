@@ -1,0 +1,4 @@
+Name:           Jose Martinez
+Email:          jjmartinez@csus.edu
+GitHub:         JustJoseM
+Fact:           I like to practice card tricks
