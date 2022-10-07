@@ -15,6 +15,7 @@ A list of peers in CSC 131-06 Fall 2022
 * Eduardo Lopez
 * Gary Kane
 * Haoyang Li 
+* Jacob Correa
 * Jonathan Camarena Camacho
 * Joshua Cupler
 * Jose Martinez
