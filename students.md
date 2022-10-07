@@ -14,6 +14,7 @@ A list of peers in CSC 131-06 Fall 2022
 * Christian Vela Pasillas
 * Danny Zhou
 * Eduardo Lopez
+* Eric Brutskiy
 * Gary Kane
 * Haoyang Li 
 * Jacob Correa
