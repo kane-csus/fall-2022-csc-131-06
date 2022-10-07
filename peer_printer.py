@@ -49,11 +49,15 @@ def main():
     alex_souv = Person('Alex Souv', False)
     amir_talakoob = Person('Amir Talakoob', False)
     anish_chouhan = Person('Anish Chouhan', True)
+    branden_nguyen = Person('Branden Nguyen', False)
     brandon_kmiec = Person('Brandon Kmiec', True)
+    blake_danz =Person('Blake Danz', False)
+    christian_vela = Person('Christian Vela', True)
     danny_zhou = Person('Danny Zhou', True)
     eduardo_lopez = Person('Eduardo Lopez', True)
     gary_kane = Person('Gary Kane', False)
     haoyang_li = Person('Haoyang Li', False)
+    jacob_correa = Person('Jacob Correa', False)
     kiranjot_kaur = Person('Kiranjot Kaur', True)
     mohammed_alchalabi = Person('Mohammed Al Chalabi', True)
     phuc_dinh = Person('Phuc Dinh', False)
@@ -61,11 +65,11 @@ def main():
     jonathan_camarena_camacho = Person('Jonathan Camarena Camacho', True)
     joshua_cupler = Person('Joshua Cupler', True)
     jose_martinez = Person('Jose Martinez', False)
-
+    
 
     # List of people in our class (alphabetical order by first name)
 
-    peers = [alex_souv, amir_talakoob, anish_chouhan, brandon_kmiec, danny_zhou, eduardo_lopez, gary_kane, haoyang_li, jonathan_camarena_camacho, joshua_cupler, jose_martinez, kiranjot_kaur, mohammed_alchalabi, phuc_dinh, vincent_lam]
+    peers = [alex_souv, amir_talakoob, anish_chouhan, blake_danz, branden_nguyen, brandon_kmiec, christian_vela, danny_zhou, eduardo_lopez, gary_kane, haoyang_li, jacob_correa, jonathan_camarena_camacho, joshua_cupler, jose_martinez, kiranjot_kaur, mohammed_alchalabi, phuc_dinh, vincent_lam]
 
     # Print out people in our class
     print("Welcome to learning Git in %s %s!" % (COURSE[0], SEMESTER[0]))
@@ -86,11 +90,24 @@ def main():
         print("%s likes pineapple pizza" % anish_chouhan.name)
     else:
         print("%s DOES NOT like pineapple pizza" % anish_chouhan.name)
+    if branden_nguyen.likes_pineapple_pizza:
+        print("%s likes pineapple pizza" % branden_nguyen.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" % branden_nguyen.name)
         
     if brandon_kmiec.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % brandon_kmiec.name)
     else:
         print("%s DOES NOT like pineapple pizza" % brandon_kmiec.name)
+    if blake_danz.likes_pineapple_pizza:
+        print("% likes pinapple pizza" % blake_danz.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" % blake_danz.name)
+
+    if christian_vela.likes_pineapple_pizza:
+        print("%s likes pineapple pizza" % christian_vela.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" % christian_vela.name)   
 
     if danny_zhou.likes_pineapple_pizza:
         print(f'{danny_zhou} likes pineapple pizza')
@@ -111,6 +128,12 @@ def main():
         print("%s likes pineapple pizza" % haoyang_li.name)
     else:
         print("%s DOES NOT like pineapple pizza" % haoyang_li.name)
+
+    if jacob_correa.likes_pineapple_pizza:
+        print("%s likes pineapple pizza" % jacob_correa.name)
+    else:
+        print("%s DOES NOT like pineapple pizza" % jacob_correa.name)
+
 
     if jonathan_camarena_camacho.likes_pineapple_pizza:
         print("%s likes pineapple pizza" % jonathan_camarena_camacho.name)
