@@ -154,9 +154,9 @@ def main():
         print(f'{danny_zhou} DOES NOT like pineapple pizza')
 
     if diya_soneji.likes_pineapple_pizza:
-        print(f'{danny_zhou} likes pineapple pizza')
+        print(f'{diya_soneji} likes pineapple pizza')
     else:
-        print(f'{danny_zhou} DOES NOT like pineapple pizza')
+        print(f'{diya_soneji} DOES NOT like pineapple pizza')
 
     if eduardo_lopez.likes_pineapple_pizza:
     	print("%s likes pineapple pizza" % eduardo_lopez.name)
