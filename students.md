@@ -29,6 +29,7 @@ A list of peers in CSC 131-06 Fall 2022
 * Phuc Dinh
 * Rishi Somanchi
 * Sachal Ali
+* Samuel Caus
 * Tom Bolyard
 * Vincent Lam
 * William Hong
