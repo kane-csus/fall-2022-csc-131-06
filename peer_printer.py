@@ -58,6 +58,7 @@ def main():
     casey_paras = Person('Casey Paras', False)
     christian_vela = Person('Christian Vela', True)
     danny_zhou = Person('Danny Zhou', True)
+    diya_soneji = Person('Diya Soneji', False)
     eduardo_lopez = Person('Eduardo Lopez', True)
     eric_brutskiy = Person('Eric Brutskiy', True)
     gary_kane = Person('Gary Kane', False)
@@ -78,7 +79,8 @@ def main():
     # List of people in our class (alphabetical order by first name)
 
 
-    peers = [aaron_jumawan,alex_souv, amir_talakoob, andreas_zignago,  anish_chouhan, anuja_chouhan, blake_danz, branden_nguyen, brandon_kmiec, casey_paras, christian_vela, danny_zhou, eduardo_lopez, eric_brutskiy, gary_kane, haoyang_li, jacob_correa, jonathan_camarena_camacho, joshua_cupler, jose_martinez, kiranjot_kaur, mohammed_alchalabi, phuc_dinh, rishi_somanchi, sachal_ali, tom_bolyard, vincent_lam, Zhijun_Li]
+    peers = [aaron_jumawan,alex_souv, amir_talakoob, andreas_zignago,  anish_chouhan, anuja_chouhan, blake_danz, branden_nguyen, brandon_kmiec, casey_paras, christian_vela, danny_zhou, diya_soneji, eduardo_lopez, eric_brutskiy, gary_kane, haoyang_li, jacob_correa, jonathan_camarena_camacho, joshua_cupler, jose_martinez, kiranjot_kaur, mohammed_alchalabi, phuc_dinh, rishi_somanchi, sachal_ali, tom_bolyard, vincent_lam, Zhijun_Li]
+
 
 
     # Print out people in our class
@@ -140,6 +142,11 @@ def main():
         print("%s DOES NOT like pineapple pizza" % christian_vela.name)   
 
     if danny_zhou.likes_pineapple_pizza:
+        print(f'{danny_zhou} likes pineapple pizza')
+    else:
+        print(f'{danny_zhou} DOES NOT like pineapple pizza')
+
+    if diya_soneji.likes_pineapple_pizza:
         print(f'{danny_zhou} likes pineapple pizza')
     else:
         print(f'{danny_zhou} DOES NOT like pineapple pizza')
