@@ -12,6 +12,7 @@ A list of peers in CSC 131-06 Fall 2022
 * Branden Nguyen
 * Brandon Kmiec
 * Casey Paras
+* Cesar Martin Del Campo
 * Christian Vela Pasillas
 * Danny Zhou
 * Diya Soneji
